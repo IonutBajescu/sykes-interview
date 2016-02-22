@@ -1,0 +1,2 @@
+- Why Notepad++
+- Why is the database not using foreign keys
